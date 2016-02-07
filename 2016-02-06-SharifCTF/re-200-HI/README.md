@@ -118,4 +118,6 @@ And that's it, when everyting was done right, we are given the flag:
 
 ![hi-01.png](hi-01.png)
 
-Flag: ef71d59e50c5fc4cd7604db77da16de8
+Flag: ef71d59e50c5fc4cd7604db77da16de8  
+  
+Ps. How to set breakpoints and override the returned values is left to readers as homework.
